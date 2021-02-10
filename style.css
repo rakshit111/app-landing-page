@@ -440,6 +440,7 @@ ul{
     position: relative;
     z-index: 1;
     transition: all 0.5s ease;
+    border-radius: 50%;
 }
 
 .features .features-item:hover .icon{
